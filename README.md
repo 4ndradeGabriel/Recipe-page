@@ -6,9 +6,9 @@
 ![Solution image](./assets/images/solution.png)
 
 ### 🔗 Project Links
-Solution: [Open]()
+Solution: [Open](https://www.frontendmentor.io/solutions/used-html5-css3grid-google-font-vars-and-aria-for-accessibility-eWMg5Pc5DN)
 
-Live Site: [Open]()
+Live Site: [Open](https://dynamic-brigadeiros-07d903.netlify.app/)
 
 ### ✍ My Process
 
@@ -32,7 +32,6 @@ This project is a recipe page, created as part of a Frontend Mentor challenge. T
     - Adjusted color contrast between text and background based on WCAG guidelines.
     - `<ul>` and `<ol>` tags are used for the ingredients and instructions, ensuring that screen readers can properly interpret the sequence of items.
     - The use of `<section>` elements to group related content (e.g., recipe image, preparation time, ingredients, instructions, and nutritional information) improves document structure, making it easier for users with disabilities to navigate the page.
-
 
 - **Responsive Design:**
     - Adopted a mobile-first approach, ensuring compatibility with various screen sizes.
